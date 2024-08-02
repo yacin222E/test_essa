@@ -1,3 +1,7 @@
 BONJOUR YACINE
 
+<<<<<<< HEAD
 VOUS ALLEZ BIEN
+=======
+5T5T5T5T5T5T5T5T5TT5T5T5T5
+>>>>>>> 95fac34 (ivjignj)
